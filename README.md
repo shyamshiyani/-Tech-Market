@@ -1,7 +1,7 @@
-# Flutter E-commerce(Tech Market)App
+# E-commerce(Tech Market)App
 
 ## Description :-
-* Tech Market App is a versatile shopping application designed to offer users a seamless shopping experience across multiple categories. With a sleek and intuitive   interface, users can easily browse through a wide range of products, including laptops, smartphones, fragrances, groceries, and home decor items.
+* Tech Market App is a resourceful shopping application designed to offer users a seamless shopping experience multiple categories. Users can easily browse through a wide range of products, including laptops, smartphones, fragrances, groceries, and home-decor items.
 ___
 ### Key Features :
 ___
@@ -12,7 +12,7 @@ ___
 * Price Filter : Users can filter products based on price range using the price filter feature, enabling them to find products that fit their budget.
 
 * Cart Management : The app includes a cart page where users can view all the items they have added to their cart. Users can manage their cart by adding or     
-  removing   items, as well as updating quantities.
+  removing items.
 
 * Total Price Calculation : The total price of items in the cart is dynamically calculated and displayed to the user, providing transparency and clarity regarding 
   the cost of their purchase.
